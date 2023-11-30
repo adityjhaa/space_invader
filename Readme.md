@@ -1,4 +1,4 @@
 # Space Invader
 //pygame
 
-RUN: python3 main.py
+RUN : python3 main.py
